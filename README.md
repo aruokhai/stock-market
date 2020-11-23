@@ -1,4 +1,4 @@
-# A Stock market ticker web app to demo Functional Reactive Programming
+# A Stock market  stock list tickers web app to demo Functional Reactive Programming
 
 ## Technologies
 
